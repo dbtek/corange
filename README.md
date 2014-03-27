@@ -5,10 +5,14 @@ One page corporate website template. Based on [landing-page](http://startbootstr
 
 * [Demo](http://dbtek.github.io/corange)
 
+Download
+--------
+* [v1.0.0](https://github.com/dbtek/corange/archive/1.0.0.zip) (zip)
+
 Copyright and License
 ---------------------
 **Corange**  
-Licensed under [MIT License](http://opensource.org/licenses/MIT).  
+Open sourced under [MIT License](http://opensource.org/licenses/MIT).  
 2014 İsmail Demirbilek - [@dbtek](http://twitter.com/dbtek)  
 
 **Based on landing-page by Start Bootstrap**  
