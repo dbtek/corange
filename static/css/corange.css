@@ -164,7 +164,7 @@ footer a:hover {
   color: #eee;
   font-weight: normal;
 }
-.navbar-cr .nav li a:hover, .navbar-dbf .nav li.active a:hover {
+.navbar-cr .nav li a:hover, .navbar-cr .nav li.active a:hover {
   color: white;
   background-color: #c0392b;
 }
@@ -173,5 +173,5 @@ footer a:hover {
   color: white;
 }
 .navbar-cr .navbar-header .navbar-toggle .icon-bar { background-color: #fff }
-.navbar-cr .navbar-header .navbar-toggle:hover .icon-bar, .navbar-dbf .navbar-header .navbar-toggle:focus .icon-bar { background-color: #e74c3c }
+.navbar-cr .navbar-header .navbar-toggle:hover .icon-bar, .navbar-cr .navbar-header .navbar-toggle:focus .icon-bar { background-color: #e74c3c }
 .section { min-height: 485px; }
