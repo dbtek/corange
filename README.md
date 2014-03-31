@@ -5,6 +5,8 @@ One page corporate website template. Based on [landing-page](http://startbootstr
 
 * [Demo](http://dbtek.github.io/corange)
 
+![screenshot](screenshot.png)
+
 Download
 --------
 * [v1.0.0](https://github.com/dbtek/corange/archive/1.0.0.zip) (zip)
